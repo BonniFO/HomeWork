@@ -44,3 +44,19 @@
 //    }
 //}
 
+//import java.util.ArrayList;
+//import java.util.Arrays;
+//import java.util.List;
+//public class Main {
+//    public static void main(String[] args) {
+//
+//        Integer[] intArray = new Integer[]{1, 2, 3, 4, 5};
+//        String[] nameArray = new String[]{"Paul", "Fill", "Joe", "Mike", "Andre"};
+//
+//        List intList = new ArrayList<>(Arrays.asList(intArray));
+//        List nameList = new ArrayList<>(Arrays.asList(nameArray));
+//
+//        System.out.println(intList.contains(10));
+//        System.out.println(nameList.contains("Fill"));
+//    }
+//}
